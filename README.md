@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi, hello, whats up 👋
+
+I'm @lerofanTastic, but u can call me Egorka.
+
+Country Russia, city Irkutsk.
 
 <!--
 **lerofanTastic/lerofanTastic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
